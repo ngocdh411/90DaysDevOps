@@ -1,0 +1,15 @@
+Có rất nhiều bài viết trên blog và video trên YouTube để liệt kê ở đây, nhưng khi chúng ta bắt đầu thử thách 90 ngày và tập trung vào việc dành khoảng một giờ mỗi ngày để tìm hiểu điều gì đó mới hoặc về DevOps, tôi nghĩ rằng thật tốt để tìm hiểu tổng quan "DevOps là gì" để bắt đầu.
+
+Thứ nhất, DevOps không phải là một công cụ. Bạn không thể mua nó, nó không phải là một SKU phần mềm hoặc một kho lưu trữ GitHub mã nguồn mở mà bạn có thể tải xuống. Nó cũng không phải là một ngôn ngữ lập trình.
+
+DevOps là một cách để thực hiện những điều thông minh hơn trong Phát triển phần mềm. Nhưng nếu bạn không phải là nhà phát triển phần mềm, bạn có nên từ bỏ ngay và không nhúng tay vào dự án này không ??? Không, hoàn toàn không. Bởi vì DevOps là sự kết hợp giữa phát triển và vận hành phần mềm. Trong cộng đồng có nhiều người với nhiều background khác nhau, và DevOps 100% sẽ mang lại lợi ích cho cá nhân, Nhà phát triển, Bộ phận vận hành và Tất cả các Kỹ sư QA đều có thể học những phương pháp hay nhất này như nhau bằng cách hiểu rõ hơn về DevOps.
+
+DevOps là một tập hợp các phương pháp giúp đạt được mục tiêu của phong trào này: giảm thời gian từ giai đoạn hình thành sản phẩm đến khi sản phẩm được phát hành trong quá trình sản xuất cho người dùng cuối hoặc bất kỳ ai đó có thể là nhóm nội bộ hoặc khách hàng.
+
+Một lĩnh vực khác mà chúng ta sẽ đi sâu vào trong tuần đầu tiên này là về Phương pháp Agile. DevOps và Agile được áp dụng rộng rãi cùng nhau để đạt được việc cung cấp Ứng dụng của bạn liên tục.
+
+Cấp độ cao hơn hết là một tư duy hoặc văn hóa DevOps là thu hẹp quy trình phát hành phần mềm đã kéo dài từ nhiều năm để có thể giảm các bản phát hành nhỏ hơn thường xuyên hơn. Điểm cơ bản quan trọng khác cần hiểu ở đây là trách nhiệm của một kỹ sư DevOps trong việc phá vỡ các silo giữa các nhóm mà tôi đã đề cập trước đây: Nhà phát triển, Điều hành và QA.
+
+Từ góc độ DevOps, Phát triển, Kiểm tra và Triển khai đều có mặt với nhóm DevOps.
+
+Điểm cuối cùng tôi sẽ làm là để làm cho điều này hiệu quả và hiệu quả nhất có thể, chúng ta phải tận dụng Tự động hóa.
